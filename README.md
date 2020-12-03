@@ -5,4 +5,4 @@ Painting Board made with VanillaJS
 ---
 
 
-![upload](https://user-images.githubusercontent.com/68538657/101015687-1c92e200-35ab-11eb-886a-211f6464278b.gif)
+![upload](https://user-images.githubusercontent.com/68538657/101015687-1c92e200-35ab-11eb-886a-211f6464278b.gif width="800")
